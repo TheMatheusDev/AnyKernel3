@@ -6,7 +6,7 @@
 properties() { '
 kernel.string=Nightsilver
 kernel.compiler=AOSP clang
-kernel.made=Ascending
+kernel.made=Ascending & CHRISL7 for base kernel
 message.word=
 do.devicecheck=1
 do.modules=0
