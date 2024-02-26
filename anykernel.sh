@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=uvite
+kernel.string=Nightsilver
 kernel.compiler=AOSP clang
-kernel.made=CHRISL7
+kernel.made=Ascending
 message.word=
 do.devicecheck=1
 do.modules=0
