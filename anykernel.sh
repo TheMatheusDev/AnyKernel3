@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Nightsilver
+kernel.string=NightsilverSU
 kernel.compiler=AOSP clang
 kernel.made=Ascending & CHRISL7 for base kernel
 message.word=
